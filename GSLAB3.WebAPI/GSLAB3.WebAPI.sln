@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GSLAB3.WebAPI", "GSLAB3.WebAPI\GSLAB3.WebAPI.csproj", "{DED0E7EE-8A4F-40B0-AFF4-8517BD357D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSLAB3.MVC", "..\GSLAB3.MVC\GSLAB3.MVC.csproj", "{FC7E9721-3C66-45D1-BCA4-609288C739ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED0E7EE-8A4F-40B0-AFF4-8517BD357D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED0E7EE-8A4F-40B0-AFF4-8517BD357D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED0E7EE-8A4F-40B0-AFF4-8517BD357D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED0E7EE-8A4F-40B0-AFF4-8517BD357D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7E9721-3C66-45D1-BCA4-609288C739ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7E9721-3C66-45D1-BCA4-609288C739ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7E9721-3C66-45D1-BCA4-609288C739ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7E9721-3C66-45D1-BCA4-609288C739ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6F4395-3CAD-43D4-9652-065C89576F2F}
+	EndGlobalSection
+EndGlobal
